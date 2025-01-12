@@ -1,5 +1,5 @@
 # Braille-alfabesi-eviri-program-
-# Braille Görüntü Tanıma ve Çevirici
+# Braille Alfabesi Görüntü Tanıma ve Çeviri Programı
 
 Bu proje, Braille yazılarını bir görüntüdan alıp okunabilir metne çevirmeyi amaçlayan bir yazılımdır. Görüntüdaki Braille karakterleri, görüntü işleme teknikleri ve makine öğrenmesi algoritmalarını kullanarak tespit edilir ve karşılık geldiği harfler ile metne dönüştürülür.
 
