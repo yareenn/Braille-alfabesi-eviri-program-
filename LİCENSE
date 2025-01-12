@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2024 Meziyet Yaren Çevik
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+EDUCATIONAL PURPOSE AND DISCLAIMER:
+This software is primarily developed for educational purposes and is currently
+in development phase. The software may contain errors, bugs, or inaccuracies.
+The author makes no warranties about the completeness, reliability, and accuracy
+of this software. Any action you take by using this software is strictly at
+your own risk, and the author will not be liable for any losses and/or damages
+in connection with the use of this software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+USAGE NOTE:
+- This software is a work in progress and may be updated or modified at any time
+- It is intended to be used as a learning tool and reference for educational purposes
+- Users should be aware that the Braille text recognition results may not be 100% accurate
+- The software should not be relied upon in situations where accurate Braille translation is critical
