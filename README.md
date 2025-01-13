@@ -93,6 +93,7 @@ Proje, aşağıdaki algoritmayı takip eder:
 Bu proje, Türkçe Braille alfabesinde bulunan temel harfleri destekler:
 
 - **Harfler**: a, b, c, ç, d, e, f, g, ğ, h, ı, i, j, k, l, m, n, o, ö, p, r, s, ş, t, u, v, y, z
+- Proje şimdilik a, c, k, l, m, n, o, p, r, t, u, v, y, z harflerini tanımlıyor.
 
 ## Dikkat Edilmesi Gerekenler
 
